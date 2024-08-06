@@ -1,0 +1,3 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["py", "ex", "exs","yaml", "json"]
+}
